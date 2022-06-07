@@ -7,7 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+
+
+        As soon as I save the file, <code>src/App.js</code> the localhost is already changed!
+
+
         </p>
         <a
           className="App-link"
